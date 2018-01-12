@@ -1,0 +1,24 @@
+.navigation{
+  background-color: #000000;
+  opacity: 0.3;
+  height: 720px;
+  width:200px;
+  margin-left: 20px;
+  padding: 10px;
+}
+.home{
+  height:150px;
+  width:150px;
+}
+.nav-links{
+  color: white;
+  display: inline-flex;
+  vertical-align: middle;
+  cursor: pointer;
+  padding-left: 10px;
+  line-height: 70px;
+  text-decoration: none;
+}
+.nav-links:hover{
+  color: #2fbbce;
+}
